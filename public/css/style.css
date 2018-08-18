@@ -34,6 +34,9 @@ html {
   border-top-left-radius: 0;
   border-top-right-radius: 0;
 }
+.form-signin input[type="checkbox"]{
+  margin-top:10px;
+}
 .form-signin button[type="submit"]{
   margin-top:10px;
 }
